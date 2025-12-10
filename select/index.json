@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "comedy",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-10T18:15:35.187611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stand Up Comedy",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/01_Stand_Up_Comedy_U2.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like Comedy",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/02_Like_Comedy_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Comedy",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/03_Black_Comedy_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Divine Comedy",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/04_Divine_Comedy_Tricky.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Romantic Comedy",
+      "artist": "Róisín Murphy",
+      "has_synced": true,
+      "path": "select/05_Romantic_Comedy_Róisín_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Comedy Central",
+      "artist": "Clipse feat. Fabolous",
+      "has_synced": false,
+      "path": "select/06_Comedy_Central_Clipse_feat._Fabolous.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Comedy Central (ft. Fabolous)",
+      "artist": "Clipse",
+      "has_synced": false,
+      "path": "select/07_Comedy_Central_(ft._Fabolous)_Clipse.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boys, What I Was Thinking (comedy)",
+      "artist": "Morecambe & Wise and The Beatles",
+      "has_synced": false,
+      "path": "select/08_Boys,_What_I_Was_Thinking_(comedy)_Morecambe_&_Wise_and_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "comedy song",
+      "artist": "Fools Garden",
+      "has_synced": true,
+      "path": "select/09_comedy_song_Fools_Garden.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King Of Comedy",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/10_King_Of_Comedy_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Romantic Comedy",
+      "artist": "Stars",
+      "has_synced": true,
+      "path": "select/11_Romantic_Comedy_Stars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Krewe du Vieux (Comedy & Tragedy)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/12_Krewe_du_Vieux_(Comedy_&_Tragedy)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Comedy",
+      "artist": "Bo Burnham",
+      "has_synced": true,
+      "path": "select/13_Comedy_Bo_Burnham.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Comedy (feat. DJ Jazzy Jeff & Kaidi Tatham)",
+      "artist": "Gen Hoshino feat. DJ Jazzy Jeff & Kaidi Tatham",
+      "has_synced": true,
+      "path": "select/14_Comedy_(feat._DJ_Jazzy_Jeff_&_Kaidi_Tatham)_Gen_Hoshino_feat._DJ_Jazzy_Jeff_&_Kaidi_Tatham.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Comedy",
+      "artist": "Hoshino Gen",
+      "has_synced": true,
+      "path": "select/15_Comedy_Hoshino_Gen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tragedy Mein Comedy",
+      "artist": "Naezy",
+      "has_synced": true,
+      "path": "select/16_Tragedy_Mein_Comedy_Naezy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Comedy",
+      "artist": "Hoshino Gen",
+      "has_synced": true,
+      "path": "select/17_Comedy_Hoshino_Gen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Skin-Deep Comedy",
+      "artist": "Promise of wizard feat. Mili",
+      "has_synced": true,
+      "path": "select/18_Skin-Deep_Comedy_Promise_of_wizard_feat._Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "comedy",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_comedy_Tele.txt"
+    }
+  ]
+}
